@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plain and candid account of the natures, uses and quantities of some experienced medicines Published to the intent the afflicted withsickness [sic] may have the benefit of them. Truly prepared by Charles Marshall.</title>
+            <author>Marshall, Charles, 1637-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52029</idno>
+            <idno type="STC">Wing M741</idno>
+            <idno type="STC">ESTC R217364</idno>
+            <idno type="EEBO-CITATION">99829035</idno>
+            <idno type="PROQUEST">99829035</idno>
+            <idno type="VID">33470</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33470)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1972:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plain and candid account of the natures, uses and quantities of some experienced medicines Published to the intent the afflicted withsickness [sic] may have the benefit of them. Truly prepared by Charles Marshall.</title>
+                  <author>Marshall, Charles, 1637-1698.</author>
+               </titleStmt>
+               <extent>8 p. : 8#20.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33470:1" rendition="simple:additions"/>
+            <head>A Plain and Candid Account of the <hi>Na<g ref="char:EOLhyphen"/>tures, <g ref="char:V">Ʋ</g>ſes</hi> and <hi>Quantities</hi> of ſome Experienced MEDICINES.</head>
+            <head type="sub">Publiſhed to the Intent the Afflicted with Sickneſs may have the Benefit of them.</head>
+            <head type="sub">Truly Prepared by <hi>Charles Marſhall.</hi>
+            </head>
+            <div type="author_to_the_reader">
+               <opener>
+                  <salute>READER;</salute>
+               </opener>
+               <p>
+                  <hi>COnſidering the Variety of</hi> Medicines <hi>publiſhed of late Years, with the ſtrange Commendation of them, together with the Obſervations thereon, it was ready to deter me from publiſhing this. But ſee<g ref="char:EOLhyphen"/>ing the daily Cures, and the frequent Accounts from ſeveral places, not only in this Nation, but alſo from parts beyond the Seas, I was perſwaded and importuned to publiſh this, the Fruit of great Labour, Expence and many Years Experience; deſiring all Perſons that read this, or make uſe of theſe Medicines, to be both careful and conſiderate in both, and the Weak, Pained, Fainty, Wearied, labouring under Diſeaſes will reap the Comfort thereof.</hi>
+               </p>
+               <p>
+                  <hi>To publiſh thoſe conſiderable Cures theſe Medicines have effected (through the Bleſſing of the Lord) I have no willingneſs, nor to write much in their Praiſe, knowing the patient prudent Experiencer will have cauſe to ſpeak enough of them.</hi>
+               </p>
+            </div>
+            <div type="medicine">
+               <head>Spiritus Mundus</head>
+               <p>IS an Aſterſive Medicine, powerfully cleanſing the <hi>Stomach,</hi> and effectually opening <hi>Obſtructions</hi> of the <hi>Liver</hi> and <hi>Spleen,</hi> and <hi>Miſe<g ref="char:EOLhyphen"/>rick Veins,</hi> and prevalent againſt <hi>Plague, Surfeits,
+<note place="margin">For it greatly helps Women in both condi<g ref="char:EOLhyphen"/>tions, and it is ſafe given when with child.</note> Feavers</hi> of all ſorts, <hi>Pluriſies</hi> (without Blood-letting) <hi>Dropſies, Jaudice, Illiack Paſ<g ref="char:EOLhyphen"/>ſion</hi> and <hi>Chollick:</hi> It hath been very helpful to many in the <hi>Stone</hi> and <hi>Strangury;</hi> is of great uſe to <hi>Women in Travail,</hi> and alſo after they are delivered. In a word; <hi>againſt Diſeaſes</hi> and in <hi>aſſiſting Nature</hi> this Medicine is Efficacious.</p>
+               <div type="dosage">
+                  <pb n="2" facs="tcp:33470:2"/>
+                  <head>☞ The Manner of <g ref="char:V">Ʋ</g>ſing, and Quantities of this true Medicine.</head>
+                  <p>Mix an Ounce,
+<note n="☞" place="margin">If the Stomach be ſick after taking the <hi>Spiritus Mun<g ref="char:EOLhyphen"/>dus,</hi> be not diſ<g ref="char:EOLhyphen"/>couraged, for it is then work<g ref="char:EOLhyphen"/>ing on the of<g ref="char:EOLhyphen"/>fending mat<g ref="char:EOLhyphen"/>ters, and gene<g ref="char:EOLhyphen"/>rally quickly goes off; if it cauſe a Puking or Vomiting, take it again preſently; and if it do ſo a<g ref="char:EOLhyphen"/>gain, take it again &amp; again, and in a little time it will get thorow the of<g ref="char:EOLhyphen"/>fending matter &amp; paſs through the ſmall Veſ<g ref="char:EOLhyphen"/>ſels cleanſing &amp; comforting.</note> which is about two ſpoonfuls, in half a Pint, 3 parts of a Pint, or a Pint of <hi>Saſſafraſs, Balm, Angellico, Burrage, Black-Cherry Water,</hi> or in want of any of theſe, in pure freſh <hi>Rain Water,</hi> or good <hi>Spring Water,</hi> ſweetned firſt with the beſt <hi>White Sugar;</hi> and being mixt thus, a Man or Woman may take at a time two or three ſpoonfuls; carefully Noting theſe two general Rules;</p>
+                  <p>☞ Firſt, <hi>That every one may mix it ſtronger or ſmaller, as they can take it, and as neceſſity calls for it:</hi>
+                  </p>
+                  <p>Secondly, <hi>That the more diſtilled Water is mixed with it, the more ſhould (when mixed) be taken at a time.</hi>
+                  </p>
+                  <p>Noting, That in Surfeits of all ſorts, Gripes, Pluriſies, the be<g ref="char:EOLhyphen"/>ginnings of Feavers, Stone and Gout, and ſuch Diſtempers that call for Immediate Relief, it ſhould be mixed pretty ſtrong, and taken often, viz. <hi>Every half Hour</hi> (or oftner) for an Hour, or two, or three Hours together; and then ſtaying three or four hours, take it ſo again; and ſo do for ſome time, until the Diſtemper be in good Meaſure conquered; and after, take it as in old Diſtempers, which is two or three times in a Morning early, in one hours time, or leſs, and then lie an hour or two after it and ſleep, if the Patient can; and again an hour before Dinner, and at five in the Afternoon. <hi>Note,</hi> For Children it muſt be mixed according to their Strength and Age,
+<note n="☞" place="margin">
+                        <hi>Note,</hi> That in the times of reſting 3 or 4 hours between the taking the <hi>Spiritus Mun<g ref="char:EOLhyphen"/>dus,</hi> any con<g ref="char:EOLhyphen"/>venient cordial Poſſet, or clean Food, eafie of Digeſtion, may be taken. It encreaſeth Appetite to Food, and helps Digeſtion.</note> and as one can get them take it: For Babes in the firſt Moneth againſt Con<g ref="char:EOLhyphen"/>vulſion Fits, mix it in <hi>Black-Cherry-Water</hi> ſweetned, ſo as it only juſt taſte of the Medicine, and give a Pap ſpoonful pretty often, as occa<g ref="char:EOLhyphen"/>ſion requires: Againſt Wind, mix it with on part <hi>Spire-Mint-Water,</hi> and another part <hi>Saſſafrage-Water. Noting,</hi> That if Perſons want Reſt, mix it with one part <hi>Poppy-Water,</hi> and another <hi>Saſſafraſs,</hi> or any other Water mentioned, as above directed, and give it ſeveral times in the Night to cauſe ſweet Reſt, which often it performs, and thereby gives great and ſtrong Relief to weak and afflicted People.</p>
+                  <p>☞ <hi>Saſſafraſs-Water</hi> is the moſt general Water I mix the <hi>Spiritus Mundus</hi> in; made thus,</p>
+                  <p>Take ſix or eight Ounces of good <hi>Saſſafraſs-Wood,</hi> with the Rhine on, thinly chipped, put it with a Gallon of <hi>Rain-Water,</hi> or in want thereof, any other good Water, and diſtill off five Pints; if it be twice diſtilled it is the better.</p>
+               </div>
+            </div>
+            <div type="medicine">
+               <pb n="3" facs="tcp:33470:2"/>
+               <head>
+                  <hi>Spiritus Sedativus</hi> and <hi>Vnited Spirit</hi> in one intire Medicine.</head>
+               <p>THis is a Balſomick <hi>Medicine,</hi> reſiſting Putrifaction,
+<note place="margin">Women with child may take this Medicine ſafely, not ex<g ref="char:EOLhyphen"/>ceeding forty drops in a day.</note> and ſtrength<g ref="char:EOLhyphen"/>ning the Stomach, and Nature in general; purifies the Blood, af<g ref="char:EOLhyphen"/>ter taking the <hi>Spiritus Mundus;</hi> is helpful againſt thoſe Diſtempers before-mentioned; and is very Efficacious in the <hi>Plague, Sported-Fea<g ref="char:EOLhyphen"/>ver, Small-Pox</hi> and <hi>Meaſels,</hi> prevailing againſt the Malignancy of all ſuch Diſtempers; effectual againſt <hi>Coughs, Conſumptions</hi> and <hi>Weak<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c. This <hi>Medicine</hi> is both a Reſtorative and a Preſervative, taken after the uſe of the <hi>Spiritus Mundus.</hi>
+               </p>
+               <div type="dosage">
+                  <head>Its manner of Taking, and Quantities.</head>
+                  <p>If there be occaſion of Sweating, as before an Ague,
+<note place="margin">With this Me<g ref="char:EOLhyphen"/>dicine add but a little Clothes more than at another time on the Bed.</note> or one taking Cold or great Pain in their Limbs, or on any occaſion where Sweating is needful (and relieving) give unto a Man or Woman forty Drops, or half a ſmall Spoonful in a full Spoonful of hot Sack or Cordial-Wa<g ref="char:EOLhyphen"/>ter, or in want thereof, in hot ſtrong-Beer ſweetned, or Mace-Ale, and let the Patient lie ſtill with their Hands on their Stomach, &amp; patiently expect the coming forth of the Sweat; if the Patient be not relieved, &amp; Sweat doth not come, as expected in one Hour,
+<note n="☞" place="margin">The Sack or Mace-Ale being hot put in the Drops, &amp; immediately give it; for o<g ref="char:EOLhyphen"/>therwiſe much of the Medi<g ref="char:EOLhyphen"/>cines will be loſt: And take care to keep both this and <hi>Spiritus Mun<g ref="char:EOLhyphen"/>dus, Cordial Spirit</hi> and <hi>A<g ref="char:EOLhyphen"/>qua Rubra</hi> cloſe ſtopped.</note> give the ſame quan<g ref="char:EOLhyphen"/>tity again, eſpecially in the <hi>Plague, Spotted-Feaver</hi> or <hi>Small-Pox,</hi> or any <hi>Malignant Feaver,</hi> or great Oppreſſor on the Heart, &amp;c. And after one hour give ſome Poſſet, wherein is boyled <hi>Cardus, Marigold-flowers, Angellico,</hi> or <hi>Marjorem,</hi> or <hi>Winter-Savory</hi> and <hi>Balm;</hi> minding, that any of theſe Herbs being boyled in Poſſet, let the Veſſel be cloſe co<g ref="char:EOLhyphen"/>vered; let the length of the time of Sweating be proportioned to the ſtrength of the Patient, and the neceſſity. <hi>Noting,</hi> That ſome Per<g ref="char:EOLhyphen"/>ſons (as I have ſeen) the longer they have ſweat, the better able to bear it, and have found themſelves ſtronger and ſtronger; in the time of ſuch ſweating, they may often ſmell to the <hi>Cordial Spirit,</hi> which will not only keep up their Spirits, but helps nature againſt the Diſtemper; where Perſons do not take it thus to ſweat, give it once in ſix hours for a few days in the Diſtempers aforeſaid, and as afore directed: For <hi>Chronick</hi> or <hi>Old Diſtempers,</hi> give it every Night, as afore directed. For Children, from one Drop (to the new-born) in ſome Breaſt Milk, to
+<pb n="4" facs="tcp:33470:3"/>fifteen, twenty or thirty Drops, according to their age, ſtrength and neceſſity. For Coughs give it in <hi>Hyſop-Water</hi> ſweetned well with Sugar-candy. Of which Medicine, more ſhall be ſaid in the <hi>Applica<g ref="char:EOLhyphen"/>tions</hi> of the Medicines.</p>
+               </div>
+            </div>
+            <div type="medicine">
+               <head>Cordial Spirit.</head>
+               <p>THis <hi>Medicine</hi> is a great <hi>Cordial,</hi> truly helping and relieving Na<g ref="char:EOLhyphen"/>ture, and both inwardly and outwardly adminiſtred, is of admi<g ref="char:EOLhyphen"/>rable Benefit to <hi>poor fainting drooping Spirits</hi> and <hi>weak Natures,</hi> and a great Reliever and Comforter of <hi>Old Age,</hi> and mightily prevails a<g ref="char:EOLhyphen"/>gainſt all <hi>Bruiſings</hi> and <hi>Squats,</hi> whether inward or outward, diſperſing <hi>bruiſed Blood,</hi> inward or outward, and relieves <hi>weak, withered, nummed Members,</hi> which either come from inward Diſtempers, or outward Accidents; its prevalent inward and outward againſt <hi>Pains in the Head,</hi> and Diſeaſes there, <hi>Apoplexes, Palfies, Megrims,</hi> and againſt <hi>Convulſions.</hi>
+               </p>
+               <div type="dosage">
+                  <head>Its manner of Taking,
+<note n="☞" place="margin">In caſes of great <hi>faintings</hi> or extream <hi>Pains</hi> in the Head or Apo<g ref="char:EOLhyphen"/>plexes, a little may be poured forth in the Palm of ones hand, and then rubbing both hands together clap both <hi>hands</hi> to the Noſe, that the flavour may aſcend up; this do often, as occaſion cals for it, in caſes of greateſt ne<g ref="char:EOLhyphen"/>ceſſity.</note> and Quantities.</head>
+                  <p>Againſt inward Diſeaſes a Man or a Woman may take half a ſpoonful in two or three ſpoonfuls of warm Sack, as a Cordial, or as a ſmall ſpoonful, in two ſpoonfuls of hot ſtrong Beer, ſweetned (or Mace-Ale) it may be taken two or three times a day, as occaſion calls for it. For Children, give it according to their age and ſtrength, in Mace-Ale, or mix it into a Cordial thus, <hi>Mix an Ounce of Poppy-Wa<g ref="char:EOLhyphen"/>ter, with as much Cowſlip-Water, ſweeten it with Syrup of Cowſlips, then put a little</hi> Cordial Spirit, <hi>as it may taſte of it;</hi> and give Children a Pap-ſpoonful of it two or three times a day, or as occaſion calls for it, againſt Weakneſs, Faintneſs and Convulſions. Outwardly applied, it is of as great uſe as Inwardly, and may be uſed when Cordials cannot be given ſo frequently inwardly, with great Refreſhing and good Succeſs; thus, <hi>Pour forth a Thimbleful into a Spoon, and with a fine Cloth wetting it, and then apply it to the Noſtrils, drawing up the flavour:</hi> This do often in Faintings, Pains of the Head, and the Diſtempers before mentioned, in application of this Medicine.<note n="☞" place="margin">
+                        <hi>Note,</hi>That when the chief of the Spirit is gone from the wet Cloth, then rub the Temples; for it is of great uſe to rub the Tem<g ref="char:EOLhyphen"/>ples with it, and Fore-head, and Cords of the Neck.</note>Thus doing long together,
+I have found ſatisfactory admirable Effects againſt Conuvl<g ref="char:EOLhyphen"/>ſions, great Faintings and dyings away. Againſt Rickets in Children,
+<pb n="5" facs="tcp:33470:3"/>weakneſs, and pained benummed Limbs, warm a full ſpoonful in ſome convenient thing, and chafe it in once or twice a day; and ſo do againſt Bruiſes, and ſuch like, putting on a fine Cloth double, wet in the Medicine, on the part bruiſed, eſpecially if it be in any part of the Head. Uſe it thus, repeating the Uſe of it twice a day, if occaſion require it.</p>
+               </div>
+            </div>
+            <div type="medicine">
+               <head>Aqua Rubra</head>
+               <p>IS a Preſervative Medicine, and is of great Uſe againſt <hi>Feavers,</hi> as well Hectick as others; its good againſt all <hi>Coughs</hi> and <hi>Ptyſicks,</hi> helps the <hi>Stomach,</hi> and ſtirs up <hi>Appetite</hi> to <hi>Food;</hi> very helpful againſt <hi>ſore Mouthes</hi> in Children, and that Diſtemper called the <hi>Thruſh</hi> in Children, and againſt the <hi>Quincy,</hi> &amp; all <hi>ſore Throats;</hi> for it takes away Inflamations.</p>
+               <div type="dosage">
+                  <head>Its Quantities, and Manner of Taking.</head>
+                  <p>In intermitting Feavers, or Agues and Feavers; when the Feaver and Thirſt comes on, give of this Medicine, from four Drops to forty, or half a Spoonful, in as much Beer as the Medicine may only taſte a lit<g ref="char:EOLhyphen"/>tle ſharpiſh in: If the Drieth be great, and Feaver burning very much, it may be given every Hour, or half Hour, for three times; againſt con<g ref="char:EOLhyphen"/>tinued Feavers two or three times a day; againſt Hectick Feavers, an Hour before Dinner, and at five in the Afternoon; againſt Coughs and Ptyſick, give it mixed in Hyſop Water, in which Liquoriſh hath been infuſed, and ſweetned with Sugar candy;
+<note place="margin">A Plaiſter for Worms; Mix. powder of Al<g ref="char:EOLhyphen"/>lows, Joyce of Rue &amp; Worm<g ref="char:EOLhyphen"/>wood together, boyl them to a Plaiſter, and ſpread on a few drops of Balſom of Sulpar; ſecure the Navil with Cotten. Theſe directions for Worms may be of ſervice to Thouſands, if carefully made uſe of.</note> againſt Worms give it faſting in Wormwood-Beer, ſeven Mornings together, and after give ſome Milk and Honey mixt, in which is a little fine Powder of <hi>Rubarb</hi> to bring away the Worms, dead or alive.</p>
+               </div>
+            </div>
+            <div type="medicinal_applications">
+               <head>The Applications of the Medicines.</head>
+               <div type="part">
+                  <head>
+                     <hi>And firſt, againſt the</hi> Plague, Agues, Feavers <hi>of all ſorts,</hi> Small-Pox <hi>and</hi> Meaſels, Gripes, Pluriſies, <hi>and ſuch like Diſtempers that ſeize ſuddainly many times on People.</hi>
+                  </head>
+                  <p>When Perſons are firſt taken, give of <hi>Spiritus Mundus,</hi> following of it cloſe, as it is directed before, concerning the <hi>Spiritus Mundus</hi> in par<g ref="char:EOLhyphen"/>ticular;
+<pb n="6" facs="tcp:33470:4"/>and then give the <hi>Spiritus Sedativus,</hi> &amp;c.
+<note place="margin">3 for Agues every night, &amp; 4 hours and 1 hour before the Fit. ☞ Theſe Me<g ref="char:EOLhyphen"/>dicines work variouſly; for <hi>ſometimes</hi> 'twill gently vomit; Otherwiſe, if Perſons vomit much, it will effectually ſtop vomiting. And ſo, ſometimes they will ſweat much, ſome<g ref="char:EOLhyphen"/>times little.</note> either to ſweat, or every ſix Hours, as is before directed; minding, that if the <hi>Spiritus Mundus</hi> make ſick in Stomach, or War there, and ſo cauſe Puking or Vomiting, ſtop not its motion, but take it again and again, until it paſs clear. Now where Nature inclines to caſt off the Offending Matter by Sweat, there the Medicines will mightily aſſiſt and work that way, and ſometimes very much by Urine, opening and making way through the Veſſels, warming and comforting, which the Patient will ſenſibly feel; if Fainty, then uſe the <hi>Cordial Spirit,</hi> as afore directed; uſe it much to ſmell to, taking up the Flavour in Faintings or Weakneſs, in any of thoſe or ſuch like Diſtempers, as in the Direction of <hi>Cordial Spirit</hi> be<g ref="char:EOLhyphen"/>fore. Againſt Drieth in Feavers and Burnings, take the <hi>Aqua Rubra</hi> in Beer, as is afore directed: If Coſtive, uſe opening Meats, as Water Grewel, and ſuch like: If Patients want Reſt, mix the <hi>Spiritus Mun<g ref="char:EOLhyphen"/>dus</hi> with Poppy Water, and give it two or three times in a Night, two Spoonfuls at a time, ſweetned a little, as afore directed.</p>
+               </div>
+               <div type="part">
+                  <head>For Purifying the Blood,
+<note n="☞" place="margin">After ten days reſpit the <hi>Mundus</hi> ſhould be taken again in the ſame manner; and then reſt again, &amp; ſo continue as occaſion call for; minding and to forbear it at Nights, when the <hi>Seda<g ref="char:EOLhyphen"/>tivus</hi> is to be given.</note> Curing the Scurvey, Jaundice, Dropſies, opening Obſtructions, and ſuch like Diſtempers.</head>
+                  <p>Take of the <hi>Spiritus Mundus,</hi> mixed with Saſſafraſs Water, ſweetned a little with Sugar, three times in a Morning, two Spoonfulls at a time, ſtaying a little time between, and two Spoonfuls an Hour before Din<g ref="char:EOLhyphen"/>ner, and at five in the Afternoon, and going to Bed, as afore directed: This do for ten dayes: Then take of the <hi>Sedativus, &amp;c.</hi> mentioned before, forty or fifty Drops, as afore directed, in a full Spoonful of Sack, or Cordial Water, or in want of it, in hot ſtrong Beer ſweetned: This do for forty Nights. If any Faintineſs attend, uſe the <hi>Cordial Spirit,</hi> as afore directed; if any Feaver, the <hi>Aqua Rubra.</hi>
+                  </p>
+               </div>
+               <div type="part">
+                  <head>Againſt Conſumptions.</head>
+                  <p>Take the <hi>Spiritus Mundus,</hi> mixed with good Saffafras Water, ſweet<g ref="char:EOLhyphen"/>ned with Sugar-candy, twice in a Morning in Bed, two Spoonfulls a time, lying an Hour or two after it; ſo do forty dayes, taking thirty Drops of <hi>Spiritus Sedativus</hi> in a Spoonful of Syrup of Hyſop, or in Mace-Ale, every Night for forty Nights. Uſe the <hi>Cordial Spirit,</hi> as afore directed; and the <hi>Aqua Rubra</hi> before Dinner, and if Hectick, at five in the afternoon, as directed. If the Patient waſte in Fleſh, I adviſe to Aſſes Milk, and in want of that, Cows Milk (one and the ſame Cows Milk) every morning, the firſt or laſt milking, &amp; quantity which agrees
+<pb n="7" facs="tcp:33470:4"/>beſt, milk it into a ſprig of Spire Mint and a ſprig of Roſemary,
+<note place="margin">To make Syrup againſt Con<g ref="char:EOLhyphen"/>ſumptions, take of double di<g ref="char:EOLhyphen"/>ſtilled Hyſop-Water &amp; Sack, of each a Pint, tops of Maiden Hyſop and Thime, half a handful of both, three tops of Horehound, one ounce of Liquoriſh thin ſliced: Infuſe theſe things in a cloſe covered Pipkin 24 hours, then ſtrain it out, to the Liquor add two pound of Sugar-candy in Powder; let it infuſe again 12 hours in a cloſe covered thing; then its done.</note> one or both, ſweetned with a little Sugar of Roſes, or Pearl Sugar. The Syrup directed in the Margent is proper to take <hi>Sedativus, &amp;c.</hi> in, as directed, thirty or forty drops in a ſpoonful, and is good to take the <hi>Aqua Rubra</hi> in, or <hi>Cordial Spirit;</hi> and with any of theſe is good againſt Coughs and Ptyſicks, and ſtoppings of the Breaſt, and againſt ſhort<g ref="char:EOLhyphen"/>neſs of Breath.</p>
+               </div>
+               <div type="part">
+                  <head>
+                     <hi>Againſt the</hi> Gout, Stone <hi>and</hi> Sciatica, <hi>and</hi> Pains <hi>in the</hi> Limbs, <hi>and</hi> Aches.</head>
+                  <p>Take the <hi>Spiritus Mundus, Sedativus</hi> and <hi>Cordial Spirit,</hi> as directed afore; minding, in the Fits to anoint the pained places with ſtrong <hi>Spiritus Mundus,</hi> chaſing it in with a warm Hand, and apply ſtrong Yeaſt, <hi>alias</hi> Barme, ſpread like a Plaiſter on Colwort Leaves, anoint<g ref="char:EOLhyphen"/>ing with <hi>Spiritus Mundus,</hi> and changing the Colwort Leaves, as occaſi<g ref="char:EOLhyphen"/>on requires. Give the <hi>Spiritus Mundus</hi> every half hour in the Fits of the Stone and Chollick, or ſtoppings of Urine, as afore directed; minding to drink good ſtore of Camomile Poſſet, ſweetned with Syrup of Althea; and for Pains in the Limbs take the <hi>Sedativus, &amp;c.</hi> to Sweat, with the Poſſets ordered as aforeſaid, in the Directions for the Uſe of the <hi>Sedativus, &amp;c.</hi> and for weak Limbs, uſe the <hi>Cordial Spirit,</hi> as directed before, in the Directions for taking <hi>Cordial Spirit.</hi>
+                  </p>
+                  <p>
+                     <hi>Thus I have given Plain and Candid Directions for the <g ref="char:V">Ʋ</g>ſe of theſe truly</hi> ſafe <hi>and</hi> efficacious Medicines. <hi>If it pleaſe</hi> Phyſitians <hi>to make uſe of them throughly in their Practice, they will ſee the Comfortable Effects there<g ref="char:EOLhyphen"/>of, to their great ſatisfaction. So having done my Duty to Benefit many with my Experience, I commit it under the Provident Hand of the Almighty to bring forth thoſe Commendable Fruits, with Encreaſe, which they have done in many places, and will, I am ſatisfied (abundantly) as they are known and experienced, &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb n="8" facs="tcp:33470:5"/>
+            <head>To be Sold at the places following.</head>
+            <p>Theſe <hi>Medicines</hi> are to be had at the Authors Houſe at <hi>Tetherton</hi> near <hi>Chippenham:</hi> And at <hi>Nathaniel Harriſes,</hi> Apothecary in <hi>Chippen<g ref="char:EOLhyphen"/>ham,</hi> in <hi>Wiltſhire,</hi> &amp;c. <hi>Charles Jones</hi> elder, in <hi>Ratliff-ſtreet</hi> in <hi>Briſtol. John Ware</hi> in <hi>Caſtle-green-ſtreet,</hi> near <hi>Newgate</hi> in <hi>Briſtol. Mary Timbril</hi> in <hi>Cirenceſter. Nathaniel Ocburne</hi> of <hi>Sadbury. Jonathan Johnſon</hi> at <hi>Ha<g ref="char:EOLhyphen"/>verill</hi> in <hi>Suffolk; Robert Silveſter</hi> of <hi>Nailſworth,</hi> Mercer, in <hi>Gloceſterſhire. John Cox</hi> in <hi>Gloceſter. John Hubbard,</hi> Grocer, in <hi>Stoak</hi> near <hi>Lyn,</hi> in <hi>Norfolk.</hi> And the Widdow <hi>Shewell</hi> in <hi>Colcheſter.</hi> And divers others in the Countries may be put in by the Diſpoſers themſelves.</p>
+            <p>And at <hi>London,</hi>
+By <hi>John Staploe,</hi> Grocer,
+at the Harrow in <hi>Alderſgate-ſtreet. Richard Whitpane</hi> at the Horſe-ſhoe in <hi>little Eaſt-Cheap. William Wig<g ref="char:EOLhyphen"/>gins</hi> at the Anchor in <hi>Martins le Grand,<note place="margin">Who have Quantities of them to diſpoſe off to all others that fell them in City or Country.</note>Samuel Streeten</hi> at the Roſe in <hi>Watlin-ſtreet. Ewen Wynn</hi> at the 3 half Moons in <hi>Newgate-ſtreet. Edward Blake,</hi> next door to the black Boy and white-Horſe, near <hi>Smithfield Barrs. John Stringfello</hi> at the Unicorn in <hi>Long-Lane. Anne Wrenn</hi> in <hi>Vine Court</hi> without <hi>Biſhops-Gate. Ma<g ref="char:EOLhyphen"/>garet Drinkwell</hi> over againſt <hi>Whitegate-Ally</hi> in <hi>Biſhops-Gate-ſtreet. Andrew Sowle</hi> in <hi>Devonſhire-Buildings. Thomas Webb</hi> at the Fox in <hi>Biſhops-Gate-ſtreet. Thomas Cox</hi> at the White Lyon in <hi>White-Chappel. John Forgiſon</hi> at the Cheeſe-Fat in <hi>White-Chappel. Thomas Lee</hi> at the three half Moons on <hi>Little Tower-Hill. Matthias Jones</hi> at the Lamp in <hi>Fanchurch ſtreet. Benjamin Clark</hi> in <hi>George Yard</hi> in <hi>Lumbard ſtreet. John Bringhurſt</hi> at the Book in <hi>Grace Church ſtreet. Robert Bridgman</hi> at the Golden Lyon in <hi>Leaden Hall ſtreet. Sarah Huxly</hi> in <hi>School-houſe Lane, Ratcliff. Peter Boſs</hi> at <hi>Reddref Church-Stairs. Gabriel Harwood</hi> Cheeſemonger, at <hi>Horſe-lie-down. Samuel Martin,</hi> Cheeſemonger, at the Horſeſhoe over Stone-bridge in <hi>Bemondſey-ſtreet. Henry Jeffer<g ref="char:EOLhyphen"/>ſon</hi> over againſt <hi>Gleane-Ally</hi> in <hi>Tooly-ſtreet. Thomas Spire</hi> at the Park in <hi>Southwark. William Clark</hi> in <hi>James</hi>'s <hi>Market,</hi> near <hi>Charing-Croſs.</hi> And <hi>Francis Stampher,</hi> Clock-Maker, living <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
